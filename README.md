@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prashant-Mishra-12569](https://github.com/Prashant-Mishra-12569)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/prashant-mishra-085bbb238/](https://www.linkedin.com/in/prashant-mishra-085bbb238/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/prashant-mishra12569/](https://www.linkedin.com/in/prashant-mishra-085bbb238/)
 
 - 💬 About me **I am a Freelancer you can hire me also contact on my mail pm828687@gmail.com I learn many Programming languages**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prashant-mishra-085bbb238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashant-mishra-085bbb238/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prashant-mishra12569/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashant-mishra-085bbb238/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
